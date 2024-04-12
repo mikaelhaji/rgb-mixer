@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1712551851" />
+    <testcase name="test_all" classname="test.test_rgb_mixer" file="/home/mhaji/asic_tools/rgb_mixer/test/test_rgb_mixer.py" lineno="32" time="1.2088878154754639" sim_time_ns="156190001.0" ratio_time="129201402.31421673" />
+  </testsuite>
+</testsuites>
